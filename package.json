@@ -8,7 +8,7 @@
     "source.layerfile",
     "Layerfile"
   ],
-  "repository": "https://github.com/atom/atom-layerfile",
+  "repository": "https://github.com/Peter8234/atom-layerfile",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
